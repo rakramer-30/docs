@@ -1,7 +1,7 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Kramer's Docs",
+  "name": "Kramer's Documentation",
   "colors": {
     "primary": "#c11c84",
     "light": "#E4D96F",
@@ -18,7 +18,8 @@
             "pages": [
               "index",
               "quickstart",
-              "development"
+              "development",
+              "terminology"
             ]
           },
           {
