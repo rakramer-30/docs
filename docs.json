@@ -17,10 +17,7 @@
             "group": "Getting started",
             "pages": [
               "index",
-              "quickstart",
-              "development",
-              "terminology",
-              "building-image-classification-flow"
+              "quickstart"
             ]
           },
           {
